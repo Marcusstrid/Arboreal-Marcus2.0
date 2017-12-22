@@ -17,3 +17,10 @@ Du använder i majoritet relativa måttenheter: % och rem/em. Användandet av en
 Sidan har en meny där man kan gå till de olika undersidorna. Sidan får vara en one page där det inte finns några undersidor (pricing, themes, about, contact t.ex.) men då ska menyn länka till de olika rubrikerna på sidan (scrolla till rubriken).
 Sidan innehåller all information ovan om företaget, logotyp, slogan, pricing etc. Hur det är strukturerat är dock upp till dig. Tabellen behöver t.ex. inte se exakt ut som den ser ut i detta dokument utan det viktiga är att man tydligt ser innehållet och att det är väl grupperat så man ser vilken information som hör till vad. Tabellen behöver inte heller vara av typen table.
 Sidan innehåller ett korrekt formaterat kontaktformulär som ska vara en <form> där man kan fylla i namn, telefonnummer, email, företag och meddelande. Inputfälten ska vara av rätt type och ha labels.
+
+
+
+
+Mina val av breakpoints på min webbsida utgick jag ifrån att min Header text "Arboreal" och logotypen vart för stora, så objekten ändrade position. detta åtgärdade jag genom att minska storleken på vardera. utifrån det krävdes det inte fler media queries för att göra sidan responsiv. 
+
+Utifrån den feedback jag fick åtgärade jag i css mycket dubbel kommando på storlek, samt att jag ändrade en fast text där det stod First name, Surname, email etc. till att ha placeholders så att texten försvinner när man börjar skriva i den inputen. 
